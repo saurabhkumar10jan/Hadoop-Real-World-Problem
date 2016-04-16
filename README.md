@@ -1,5 +1,5 @@
-# cs6065-P3
-Hadoop Map-Reduce Project #3
+
+Hadoop Map-Reduce Project 
 ============================
 
 #### *Team*
